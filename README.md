@@ -1,10 +1,5 @@
 # Paula Ferreira
-
-<style>
-body {
-  background-image: url('Large-scale_structure_of_light_distribution_in_the_universe.jpg');
-}
-</style>
+background-image: url('images/Large-scale_structure_of_light_distribution_in_the_universe.jpg');
 
 
 ## About me
