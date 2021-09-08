@@ -99,12 +99,12 @@ Research area: Cosmology.</p>
 
 <p> <a href="https://www.zmescience.com/science/milky-ways-x-ray-reveals-giant-bubbles/"> Milky Way’s X-ray reveals giant bubbles</a> </p>
 
-<p> <a href="https://www.zmescience.com/science/finally-some-good-environment-news-the-2020-ozone-layer-hole-closed-down/"> </a>Finally, some good environment news : the 2020 ozone layer hole closed down</p>
+<p> <a href="https://www.zmescience.com/science/finally-some-good-environment-news-the-2020-ozone-layer-hole-closed-down/">Finally, some good environment news : the 2020 ozone layer hole closed down </a></p>
 
 <p> <a href="https://www.zmescience.com/space/no-one-knows-for-sure-the-expansion-rate-of-the-universe/">No one knows for sure the expansion rate of the universe
  </a> </p>
 
-<p> <a href="https://www.zmescience.com/science/the-betelgeuse-false-alarm-and-red-giants-dust-hypothesis/"> </a>The Betelgeuse false alarm and Red Giants dust hypothesis</p>
+<p> <a href="https://www.zmescience.com/science/the-betelgeuse-false-alarm-and-red-giants-dust-hypothesis/"> The Betelgeuse false alarm and Red Giants dust hypothesis</a></p>
 
 <p> <a href="https://www.zmescience.com/ecology/climate/this-hurricane-season-was-so-intense-scientists-ran-out-of-names-for-storms/">This hurricane season was so intense scientists ran out of names for storms</a> </p>
 
