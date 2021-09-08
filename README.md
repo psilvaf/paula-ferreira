@@ -20,3 +20,6 @@ Research area: Cosmology.</p>
 <a href="https://revistas.ufrj.br/index.php/aigeo/article/view/34836">DOI</a></p>
 
 ## Science Communication
+
+<p> <a href="https://www.zmescience.com/science/astronomy/gaia-mission-galaxy-map-12102020/">Gaia mission’s third data release shows astonishing galactic 3D maps
+</a> </p>
