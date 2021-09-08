@@ -16,5 +16,7 @@ Research area: Cosmology.</p>
   Research areas: Remote Sensing and Solar Radiation.</p>
 
 ## Publications
+<p>Ferreira, P. and Paiva, C. M."Evaluation of the Photovoltaic Power Generation Potential using Surface Incident Solar Radiation measurements at the Ilha do Fundão Meteorological Station – RJ". ANUÁRIO DO INSTITUTO DE GEOCIÊNCIAS (UFRJ. IMPRESSO), v. 43, p. 374-385, 2020. <br>
+<a href="https://doi.org/10.11137/2020\_3\_374\_385">DOI</a></p>
 
 ## Science Communication
