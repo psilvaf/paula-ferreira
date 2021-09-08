@@ -1,5 +1,12 @@
 # Paula Ferreira
 
+<style>
+body {
+  background-image: url('Large-scale_structure_of_light_distribution_in_the_universe.jpg');
+}
+</style>
+
+
 ## About me
 I'm a PhD student in Physics at Universidade Federal do Rio de Janeiro, my research field is Cosmology.
 
