@@ -21,6 +21,8 @@ Research area: Cosmology.</p>
 
 ## Science Communication
 
+<p> <a href = "https://www.zmescience.com/science/a-universe-in-a-bottle-why-simulating-everything-there-is-is-so-important/"> A universe in a bottle: why simulating everything there is is so important </a> </p>
+
 <p> <a href="https://www.zmescience.com/space/neutron-star-feature/"> Neutron Stars: one of the most extreme objects we know
 </a> </p>
 
