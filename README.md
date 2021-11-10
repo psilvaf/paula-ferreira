@@ -21,6 +21,15 @@ Research area: Cosmology.</p>
 
 ## Science Communication
 
+<p> <a href = "https://www.zmescience.com/space/unusual-collision-supernova-star-29102021/"> Unusual collision triggers supernova explosion in binary star system
+<\a> <\p>
+
+<p> <a href = "https://www.zmescience.com/science/ethnoastronomy-brazilian-american-28102021/" > A different way of looking at the sky — Brazilian ethnoastronomy and its unique constellations <\a> <\p>
+
+<p> <a href = "https://www.zmescience.com/science/a-major-drought-in-the-central-brasil-is-causing-a-socio-economic-crisis/"> A major drought in the central Brasil is causing a socio-economic crisis <\a> <\p>
+
+<p> <a href = "https://www.zmescience.com/ecology/climate/future-generations-will-experience-more-from-extreme-weather-events/"> Future generations will experience more from extreme weather events </a> </p>
+
 <p> <a href = "https://www.zmescience.com/science/a-universe-in-a-bottle-why-simulating-everything-there-is-is-so-important/"> A universe in a bottle: why simulating everything there is is so important </a> </p>
 
 <p> <a href="https://www.zmescience.com/space/neutron-star-feature/"> Neutron Stars: one of the most extreme objects we know
