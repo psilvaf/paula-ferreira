@@ -1,9 +1,3 @@
----
-title: Science Communication
-layout: jekyll-theme-dinky
-filename: scicomm.md
---- 
-
 ## Science Communication
 
 <p> <a href = "https://www.zmescience.com/space/unusual-collision-supernova-star-29102021/"> Unusual collision triggers supernova explosion in binary star system
