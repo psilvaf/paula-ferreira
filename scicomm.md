@@ -1,6 +1,6 @@
 ---
 title: Science Communication
-layout: template
+layout: jekyll-theme-minimal
 filename: scicomm.md
 --- 
 
