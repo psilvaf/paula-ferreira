@@ -1,5 +1,17 @@
 ## Science Communication
 
+#Astropontos
+
+<p> <a href = "https://astropontos.org/2021/11/10/medindo-bao-com-ondas-gravitacionais/">Medindo BAO com ondas gravitacionais</a> </p>
+
+#ZME Science
+
+<p> <a href = "https://www.zmescience.com/science/astronomers-zoom-in-on-mysterious-v838-monocerotis-red-nova/">Astronomers zoom in on mysterious V838 Monocerotis red nova </a> </p>
+
+
+<p> <a href = "https://www.zmescience.com/other/feature-post/why-stars-twinkle-10112021/"> Why do stars twinkle, or do they twinkle at all? For astronomers, this is important
+ </a></p>
+
 <p> <a href = "https://www.zmescience.com/space/unusual-collision-supernova-star-29102021/"> Unusual collision triggers supernova explosion in binary star system
 </a> </p>
 
