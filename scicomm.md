@@ -6,6 +6,16 @@
 
 ### ZME Science
 
+<p> <a href="https://www.zmescience.com/other/feature-post/what-is-plasma-the-most-common-state-of-matter-found-in-the-universe/"> What is Plasma — the most common state of matter found in the universe </a> </p>
+
+<p> <a href="https://www.zmescience.com/science/gravitational-wave-road-ligo-18122021/"> The first indirect detection of gravitational waves: the road to LIGO </a> </p>
+
+<p> <a href="https://www.zmescience.com/ecology/illegal-gold-mining-happening-in-plain-sight-on-an-amazon-river/"> Illegal gold mining happening in plain sight on an Amazon river </a> </p>
+
+<p> <a href="https://www.zmescience.com/science/eugenics-science-racism-03112021/"> Eugenics: how bad science was used to promote racism and ableism </a> </p>
+
+<p> <a href="https://www.zmescience.com/science/astronomers-may-have-detected-a-planet-orbiting-a-triple-star-system/"> Astronomers may have detected a planet orbiting a triple star system </a></p>
+
 <p> <a href = "https://www.zmescience.com/science/astronomers-zoom-in-on-mysterious-v838-monocerotis-red-nova/">Astronomers zoom in on mysterious V838 Monocerotis red nova </a> </p>
 
 
