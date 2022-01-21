@@ -1,4 +1,4 @@
-<h1> Posters <\h1>
+<h1> Posters <h1>
 
 ICTP - Reuven Opher Workshop on Challenges of New Physics in Space (2021)
 <p> Estimating the BAO in real space </p>
