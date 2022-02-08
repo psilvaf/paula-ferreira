@@ -6,6 +6,16 @@
 
 ### ZME Science
 
+<p> <a href = "https://www.zmescience.com/science/if-the-atmosphere-is-chaotic-how-can-we-trust-climate-models/">If the atmosphere is chaotic, how can we trust climate models?</a> </p>
+
+<p> <a href = "https://www.zmescience.com/ecology/climate/satellite-observations-tonga-eruption-24012022/"> Stunning satellite observations show Tonga eruption effects in unprecedented detail</a> </p>
+
+<p> <a href = "https://www.zmescience.com/research/studies/science-may-not-be-the-meritocracy-we-thought-it-to-be-gender-and-race-discrepancies-are-prevalent/" >Science may not be the meritocracy we thought it to be: gender and race discrepancies are prevalent </a> </p>
+
+<p><a href ="https://www.zmescience.com/science/what-does-the-universe-sound-like-the-eerie-world-of-cosmic-sonification/">What does the universe sound like? The eerie world of cosmic sonification </a> </p>
+
+<p> <a href="https://www.zmescience.com/science/asteroid-apophis-flyby-learning-05012021/"> The asteroid Apophis will pass close to Earth in 2029. Here’s why this is a good thing </a> </p>
+
 <p> <a href="https://www.zmescience.com/other/feature-post/what-is-plasma-the-most-common-state-of-matter-found-in-the-universe/"> What is Plasma — the most common state of matter found in the universe </a> </p>
 
 <p> <a href="https://www.zmescience.com/science/gravitational-wave-road-ligo-18122021/"> The first indirect detection of gravitational waves: the road to LIGO </a> </p>
