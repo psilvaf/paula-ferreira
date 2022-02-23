@@ -2,9 +2,13 @@
 
 ### Astropontos
 
+<p> <a href ="https://astropontos.org/2022/02/22/os-dedos-de-deus-na-descricao-lagrangiana/"> Os Dedos de Deus na descrição Lagrangiana </a> </p>
+
 <p> <a href = "https://astropontos.org/2021/11/10/medindo-bao-com-ondas-gravitacionais/">Medindo BAO com ondas gravitacionais</a> </p>
 
 ### ZME Science
+
+<p> <a href = " https://www.zmescience.com/science/astronomy/annie-jump-cannon-the-legend-behind-stellar-classification/" > Annie Jump Cannon: the legend behind stellar classification </a> </p>
 
 <p> <a href = "https://www.zmescience.com/science/if-the-atmosphere-is-chaotic-how-can-we-trust-climate-models/">If the atmosphere is chaotic, how can we trust climate models?</a> </p>
 
