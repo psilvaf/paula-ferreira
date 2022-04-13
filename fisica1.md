@@ -1,6 +1,2 @@
+<a href="psilvaf.github.io/pdf/aula1.pdf" target="_blank">PDF.</a>
 
-Display math:
-```math
-e^{i\pi} + 1 = 0
-```
-and inline math $`a^2 + b^2 = c^2`$.
