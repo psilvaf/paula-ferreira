@@ -5,9 +5,13 @@
 <p><a href="pdf/cinematica_2D_1.pdf" target="_blank">Cinemática 2D (parte 1)</a></p>
 <p><a href="pdf/cinematica_2D_2.pdf" target="_blank">Cinemática 2D (parte 2) corrigido!</a></p>
 
-## Vídeos
+### Vídeos
+
+<p> Ambos os vídeos possuem legenda em português. </p>
 
 <p><a href="https://www.youtube.com/watch?v=E43-CfukEgs&list=PLsuwwG4W7Af-bQWRKnOrSR93pP6RsJm8D&index=3" target="_blank">Queda livre </a></p>
+
+<p><a href="https://www.youtube.com/watch?v=bJMYoj4hHqU&list=PLsuwwG4W7Af-bQWRKnOrSR93pP6RsJm8D&index=2" target="_blank">Referenciais </a></p>
 
 
 
