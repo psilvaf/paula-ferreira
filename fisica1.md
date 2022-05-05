@@ -13,6 +13,14 @@
 
 <p><a href="https://www.youtube.com/watch?v=bJMYoj4hHqU&list=PLsuwwG4W7Af-bQWRKnOrSR93pP6RsJm8D&index=2" target="_blank">Referenciais </a></p>
 
+### COVID-19
+
+<p>"Estou apresentando sintomas de gripe ou resfriado. O que devo fazer?"</p>
+<p>Dando prosseguimento às orientações para o retorno presencial seguro da nossa comunidade acadêmica, hoje falaremos sobre o nosso programa de testagem.</p>
+<p>Os estudantes, servidores técnico-administrativos, docentes e trabalhadores terceirizados que apresentarem sintomas de gripe ou resfriado devem afastar-se imediatamente das atividades presenciais, comunicar sua condição à Direção da instância acadêmica ou Coordenação do curso e procurar o Centro de Triagem Diagnóstica (CTD/UFRJ), para testagem e orientações, pelo e-mail covid19@reitoria.ufrj.br. </p>
+<p>O período de afastamento de casos sintomáticos e assintomáticos que tiverem a confirmação do diagnóstico de Covid-19 deve ser de 10 dias a partir da data do início dos sintomas, ou de 72 horas após o término dos sintomas.</p>
+<p>Acesse <a href="https://ufrj.br/calouros/" target="_blank">ufrj.br/calouros</a> e obtenha informações importantíssimas para o seu retorno. Saiba sobre transporte, alimentação, bibliotecas, segurança e muito mais.</p>
+<p>Não se esqueça de ler o documento com as Diretrizes para o Retorno Presencial Pleno da UFRJ:<a href="https://bit.ly/3uWtm6X" target="_blank">https://bit.ly/3uWtm6X</a>.</p>
 
 
 <div id="footer">Qualquer dúvida: psfer@pos.if.ufrj.br</div>
