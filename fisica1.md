@@ -1,6 +1,6 @@
 ## Notas de aula de Física 1
 
-<p style='color:red'>A inscrição para P1 de Física 1 ficará aberta no AVA do dia 16/05 ao dia 18/05 e que é necessário se inscrever para realizar a prova, ou seja,  só vai fazer a prova quem se inscrever!</p>
+<p style='color:red'>A inscrição para P1 de Física 1 ficará aberta no AVA do dia 16/05 ao dia 18/05 e é necessário se inscrever para realizar a prova, ou seja,  só vai fazer a prova quem se inscrever!</p>
 
 <a href="pdf/apresentacao_e_vetores.pdf" target="_blank">Apresentação e vetores</a>
 <p><a href="pdf/cinematica_1D_1.pdf" target="_blank">Cinemática 1D (parte 1)</a></p>
