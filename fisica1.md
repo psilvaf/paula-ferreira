@@ -1,4 +1,4 @@
-## Notas de aula de Física 1
+## Notas de aula de Física 1. Turma: 15705
 
 <p style='color:red'><strong>A inscrição para P1 de Física 1 ficará aberta no AVA do dia 16/05 ao dia 18/05 e é necessário se inscrever para realizar a prova, ou seja,  só vai fazer a prova quem se inscrever!</strong></p>
 
