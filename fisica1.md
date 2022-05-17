@@ -10,6 +10,7 @@
 <p><a href="pdf/cinematica_2D_3.pdf" target="_blank">Cinemática 2D (parte 3)</a></p>
 <p><a href="pdf/newton_1.pdf" target="_blank"> Dinâmica (parte 1)</a></p>
 <p><a href="pdf/newton_2.pdf" target="_blank"> Dinâmica (parte 2)</a></p>
+<p><a href="pdf/newton_3.pdf" target="_blank"> Dinâmica (parte 3)</a></p>
 
 ### Vídeos
 
