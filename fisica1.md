@@ -10,6 +10,8 @@
 <p><a href="pdf/newton_2.pdf" target="_blank"> Dinâmica (parte 2)</a></p>
 <p><a href="pdf/newton_3.pdf" target="_blank"> Dinâmica (parte 3)</a></p>
 <p><a href="pdf/newton_4.pdf" target="_blank"> Dinâmica (parte 4)</a></p>
+<p><a href="pdf/newton_5.pdf" target="_blank"> Dinâmica (parte 5)</a></p>
+<p><a href="pdf/revisao_p1.pdf" target="_blank"> Revisão P1</a></p>
 
 
 ### Vídeos
