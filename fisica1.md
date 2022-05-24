@@ -4,7 +4,7 @@
 <p><a href="pdf/cinematica_1D_1.pdf" target="_blank">Cinemática 1D (parte 1)</a></p>
 <p><a href="pdf/cinematica_1D_2.pdf" target="_blank">Cinemática 1D (parte 2)</a></p>
 <p><a href="pdf/cinematica_2D_1.pdf" target="_blank">Cinemática 2D (parte 1)</a></p>
-<p><a href="pdf/cinematica_2D_2.pdf" target="_blank">Cinemática 2D (parte 2) corrigido!</a></p>
+<p><a href="pdf/cinematica_2D_2.pdf" target="_blank">Cinemática 2D (parte 2)</a></p>
 <p><a href="pdf/cinematica_2D_3.pdf" target="_blank">Cinemática 2D (parte 3)</a></p>
 <p><a href="pdf/newton_1.pdf" target="_blank"> Dinâmica (parte 1)</a></p>
 <p><a href="pdf/newton_2.pdf" target="_blank"> Dinâmica (parte 2)</a></p>
