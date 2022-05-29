@@ -1,5 +1,8 @@
 ## Notas de aula de Física 1. Turma: 15705
 
+<b style='color:red'>As salas de prova foram alteradas: https://fisica1ifufrj.files.wordpress.com/2022/05/nova-distribuiccca7acc83o-salas-p1-ficc81sica-i.pdf</b>.
+
+
 <a href="pdf/apresentacao_e_vetores.pdf" target="_blank">Apresentação e vetores</a>
 <p><a href="pdf/cinematica_1D_1.pdf" target="_blank">Cinemática 1D (parte 1)</a></p>
 <p><a href="pdf/cinematica_1D_2.pdf" target="_blank">Cinemática 1D (parte 2)</a></p>
