@@ -1,5 +1,8 @@
 # Paula Ferreira
 
+<b style='color:red'>As salas de prova foram alteradas: https://fisica1ifufrj.files.wordpress.com/2022/05/nova-distribuiccca7acc83o-salas-p1-ficc81sica-i.pdf</b>.
+
+
 ## About me
 I'm a PhD student in Physics at Universidade Federal do Rio de Janeiro, my research field is Cosmology.
 
