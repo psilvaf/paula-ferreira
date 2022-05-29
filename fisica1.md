@@ -14,7 +14,7 @@
 <p><a href="pdf/newton_3.pdf" target="_blank"> Dinâmica (parte 3)</a></p>
 <p><a href="pdf/newton_4.pdf" target="_blank"> Dinâmica (parte 4)</a></p>
 <p><a href="pdf/newton_5.pdf" target="_blank"> Dinâmica (parte 5)</a></p>
-<p><a href="pdf/revisao_p1.pdf" target="_blank"> Revisão P1</a></p>
+<p><a href="pdf/revisao_p1.pdf" target="_blank"> Revisão P1</a>: <a href="pdf/gabarito.pdf" target="_blank">gabarito</a></p>
 
 
 ### Vídeos
