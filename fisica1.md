@@ -14,6 +14,7 @@
 <p><a href="pdf/revisao_p1.pdf" target="_blank"> Revisão P1</a>: <a href="pdf/gabarito.pdf" target="_blank">gabarito</a></p>
 <p><a href="pdf/trab_energia1.pdf" target="_blank">Trabalho e energia (parte 1)</a></p>
 <p><a href="pdf/trab_energia2.pdf" target="_blank">Trabalho e energia (parte 2)</a></p>
+<p><a href="pdf/trab_energia3.pdf" target="_blank">Trabalho e energia (parte 3)</a></p>
 
 
 ### Vídeos
