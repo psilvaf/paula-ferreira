@@ -16,6 +16,10 @@
 <p><a href="pdf/trab_energia2.pdf" target="_blank">Trabalho e energia (parte 2)</a></p>
 <p><a href="pdf/trab_energia3.pdf" target="_blank">Trabalho e energia (parte 3)</a></p>
 
+## Situação de faltas
+<p><a href="pdf/situacao_faltas.pdf" target="_blank">Presença</a></p>
+
+
 
 ### Vídeos
 
