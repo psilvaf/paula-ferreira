@@ -15,6 +15,7 @@
 <p><a href="pdf/trab_energia1.pdf" target="_blank">Trabalho e energia (parte 1)</a></p>
 <p><a href="pdf/trab_energia2.pdf" target="_blank">Trabalho e energia (parte 2)</a></p>
 <p><a href="pdf/trab_energia3.pdf" target="_blank">Trabalho e energia (parte 3)</a></p>
+<p><a href="pdf/trab_energia4.pdf" target="_blank">Trabalho e energia (parte 4)</a></p>
 
 
 ### Vídeos
