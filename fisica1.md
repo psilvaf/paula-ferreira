@@ -17,6 +17,7 @@
 <p><a href="pdf/trab_energia3.pdf" target="_blank">Trabalho e energia (parte 3)</a></p>
 <p><a href="pdf/trab_energia4.pdf" target="_blank">Trabalho e energia (parte 4)</a></p>
 <p><a href="pdf/mom_linear_impulso1.pdf" target="_blank">Momento linear e impulso(parte 1)</a></p>
+<p><a href="pdf/mom_linear_impulso2.pdf" target="_blank">Momento linear e impulso(parte 2)</a></p>
 
 
 ### Vídeos
@@ -30,7 +31,7 @@
 <p><a href="https://www.youtube.com/watch?v=alzphVrX3dU" target="_blank">Conservação de energia</a></p>
 
 
-<p> Conservação de momento linear: </p>
+<p> Conservação de momento linear: <a href="https://www.youtube.com/watch?v=4IYDb6K5UF8&list=LL&index=3" target="_blank"> Vídeo 1 </a> <a href="https://www.youtube.com/watch?v=gH5C6fJrKd0" target="_blank"> Vídeo 2</a> </p>
 
 ### COVID-19
 
