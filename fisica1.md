@@ -16,8 +16,9 @@
 <p><a href="pdf/trab_energia2.pdf" target="_blank">Trabalho e energia (parte 2)</a></p>
 <p><a href="pdf/trab_energia3.pdf" target="_blank">Trabalho e energia (parte 3)</a></p>
 <p><a href="pdf/trab_energia4.pdf" target="_blank">Trabalho e energia (parte 4)</a></p>
-<p><a href="pdf/mom_linear_impulso1.pdf" target="_blank">Momento linear e impulso(parte 1)</a></p>
-<p><a href="pdf/mom_linear_impulso2.pdf" target="_blank">Momento linear e impulso(parte 2)</a></p>
+<p><a href="pdf/mom_linear_impulso1.pdf" target="_blank">Momento linear e impulso (parte 1)</a></p>
+<p><a href="pdf/mom_linear_impulso2.pdf" target="_blank">Momento linear e impulso (parte 2)</a></p>
+<p><a href="pdf/colisoes1.pdf" target="_blank">Colisões (parte 1)</a></p>
 
 
 ### Vídeos
