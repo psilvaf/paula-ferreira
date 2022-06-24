@@ -19,6 +19,7 @@
 <p><a href="pdf/mom_linear_impulso1.pdf" target="_blank">Momento linear e impulso (parte 1)</a></p>
 <p><a href="pdf/mom_linear_impulso2.pdf" target="_blank">Momento linear e impulso (parte 2)</a></p>
 <p><a href="pdf/colisoes1.pdf" target="_blank">Colisões (parte 1)</a></p>
+<p><a href="pdf/colisoes2.pdf" target="_blank">Colisões (parte 2)</a></p>
 
 
 ### Vídeos
