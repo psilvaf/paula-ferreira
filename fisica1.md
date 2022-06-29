@@ -23,7 +23,7 @@
 <p><a href="pdf/colisoes3.pdf" target="_blank">Colisões (parte 3)</a></p>
 <p><a href="pdf/revisao2.pdf" target="_blank"> Revisão P2</a></p>
 
-### Vídeos
+<h2>Vídeos</h2>
 
 <p> Todos os vídeos possuem legenda em português. </p>
 
@@ -36,7 +36,7 @@
 
 <p> Conservação de momento linear: <a href="https://www.youtube.com/watch?v=4IYDb6K5UF8&list=LL&index=3" target="_blank"> Vídeo 1 </a> <a href="https://www.youtube.com/watch?v=gH5C6fJrKd0" target="_blank"> Vídeo 2</a> </p>
 
-### COVID-19
+<h2>COVID-19</h2>
 
 <p>"Estou apresentando sintomas de gripe ou resfriado. O que devo fazer?"</p>
 <p>Dando prosseguimento às orientações para o retorno presencial seguro da nossa comunidade acadêmica, hoje falaremos sobre o nosso programa de testagem.</p>
