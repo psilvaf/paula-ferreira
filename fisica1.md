@@ -21,7 +21,7 @@
 <p><a href="pdf/colisoes1.pdf" target="_blank">Colisões (parte 1)</a></p>
 <p><a href="pdf/colisoes2.pdf" target="_blank">Colisões (parte 2)</a></p>
 <p><a href="pdf/colisoes3.pdf" target="_blank">Colisões (parte 3)</a></p>
-<p><a href="pdf/revisao2.pdf" target="_blank"> Revisão P2</a>
+<p><a href="pdf/revisao2.pdf" target="_blank"> Revisão P2</a></p>
 
 ### Vídeos
 
