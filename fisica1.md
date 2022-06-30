@@ -1,40 +1,14 @@
 ## Notas de aula de Física 1. Turma: 15705
 
-<a href="pdf/apresentacao_e_vetores.pdf" target="_blank">Apresentação e vetores</a>
-<p><a href="pdf/cinematica_1D_1.pdf" target="_blank">Cinemática 1D (parte 1)</a></p>
-<p><a href="pdf/cinematica_1D_2.pdf" target="_blank">Cinemática 1D (parte 2)</a></p>
-<p><a href="pdf/cinematica_2D_1.pdf" target="_blank">Cinemática 2D (parte 1)</a></p>
-<p><a href="pdf/cinematica_2D_2.pdf" target="_blank">Cinemática 2D (parte 2)</a></p>
-<p><a href="pdf/cinematica_2D_3.pdf" target="_blank">Cinemática 2D (parte 3)</a></p>
-<p><a href="pdf/newton_1.pdf" target="_blank"> Dinâmica (parte 1)</a></p>
-<p><a href="pdf/newton_2.pdf" target="_blank"> Dinâmica (parte 2)</a></p>
-<p><a href="pdf/newton_3.pdf" target="_blank"> Dinâmica (parte 3)</a></p>
-<p><a href="pdf/newton_4.pdf" target="_blank"> Dinâmica (parte 4)</a></p>
-<p><a href="pdf/newton_5.pdf" target="_blank"> Dinâmica (parte 5)</a></p>
+<h3> <a href="./p1"> Cinemática e dinâmica </a> </h3>
+
 <p><a href="pdf/revisao_p1.pdf" target="_blank"> Revisão P1</a>: <a href="pdf/gabarito.pdf" target="_blank">gabarito</a></p>
-<p><a href="pdf/trab_energia1.pdf" target="_blank">Trabalho e energia (parte 1)</a></p>
-<p><a href="pdf/trab_energia2.pdf" target="_blank">Trabalho e energia (parte 2)</a></p>
-<p><a href="pdf/trab_energia3.pdf" target="_blank">Trabalho e energia (parte 3)</a></p>
-<p><a href="pdf/trab_energia4.pdf" target="_blank">Trabalho e energia (parte 4)</a></p>
-<p><a href="pdf/mom_linear_impulso1.pdf" target="_blank">Momento linear e impulso (parte 1)</a></p>
-<p><a href="pdf/mom_linear_impulso2.pdf" target="_blank">Momento linear e impulso (parte 2)</a></p>
-<p><a href="pdf/colisoes1.pdf" target="_blank">Colisões (parte 1)</a></p>
-<p><a href="pdf/colisoes2.pdf" target="_blank">Colisões (parte 2)</a></p>
-<p><a href="pdf/colisoes3.pdf" target="_blank">Colisões (parte 3)</a></p>
+
+<h3> <a href="./p2"> Conservação de energia e momento </a> </h3>
+
 <p><a href="pdf/revisao2.pdf" target="_blank"> Revisão P2</a></p>
 
-<h2>Vídeos</h2>
-
-<p> Todos os vídeos possuem legenda em português. </p>
-
-<p><a href="https://www.youtube.com/watch?v=E43-CfukEgs&list=PLsuwwG4W7Af-bQWRKnOrSR93pP6RsJm8D&index=3" target="_blank">Queda livre </a></p>
-
-<p><a href="https://www.youtube.com/watch?v=bJMYoj4hHqU&list=PLsuwwG4W7Af-bQWRKnOrSR93pP6RsJm8D&index=2" target="_blank">Referenciais </a></p>
-
-<p><a href="https://www.youtube.com/watch?v=alzphVrX3dU" target="_blank">Conservação de energia</a></p>
-
-
-<p> Conservação de momento linear: <a href="https://www.youtube.com/watch?v=4IYDb6K5UF8&list=LL&index=3" target="_blank"> Vídeo 1 </a> <a href="https://www.youtube.com/watch?v=gH5C6fJrKd0" target="_blank"> Vídeo 2</a> </p>
+<h3> <a href="./videos"> Vídeos </a> </h3>
 
 <h2>COVID-19</h2>
 
