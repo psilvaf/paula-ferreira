@@ -8,6 +8,9 @@
 
 <p><a href="pdf/revisao2.pdf" target="_blank"> Revisão P2</a>: <a href="pdf/gab2.pdf" target="_blank">gabarito</a></p>
 
+ <h3> <a href="./p3"> Cinemática e dinâmica do corpo rígido </a> </h3>
+
+
 <h3> <a href="./videos"> Vídeos </a> </h3>
 
 <h2>COVID-19</h2>
