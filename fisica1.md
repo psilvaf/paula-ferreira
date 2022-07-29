@@ -24,5 +24,6 @@
 <p>Acesse <a href="https://ufrj.br/calouros/" target="_blank">ufrj.br/calouros</a> e obtenha informações importantíssimas para o seu retorno. Saiba sobre transporte, alimentação, bibliotecas, segurança e muito mais.</p>
 <p>Não se esqueça de ler o documento com as Diretrizes para o Retorno Presencial Pleno da UFRJ:<a href="https://bit.ly/3uWtm6X" target="_blank">https://bit.ly/3uWtm6X</a>.</p>
 
+<h2><a href="pdf/presencas15705.pdf" target="_blank">Situação de faltas</a></p></h2>
 
 <div id="footer"> Qualquer dúvida: psfer@pos.if.ufrj.br</div>
