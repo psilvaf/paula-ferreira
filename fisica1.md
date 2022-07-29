@@ -9,7 +9,7 @@
 <p><a href="pdf/revisao2.pdf" target="_blank"> Revisão P2</a>: <a href="pdf/gab2.pdf" target="_blank">gabarito</a></p>
 
  <h3> <a href="./p3"> Cinemática e dinâmica do corpo rígido </a> </h3>
-<p><a href="pdf/p3_1.pdf" target="_blank"> Revisão P3 (parte 1)</a>: <a href="pdf/p3_1_gabarito.pdf" target="_blank">gabarito</a></p>
+<p><a href="pdf/p3_1.pdf" target="_blank"> Revisão P3 (parte 1)</a>: <a href="pdf/p3_1_-gabarito.pdf" target="_blank">gabarito</a></p>
 
 
 <h3> <a href="./videos"> Vídeos </a> </h3>
