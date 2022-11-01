@@ -8,6 +8,16 @@
 
 ### ZME Science
 
+<p> <a href ="https://www.zmescience.com/other/feature-post/whats-the-brightest-star-from-earth-and-how-do-we-measure-it/" What’s the brightest star from Earth, and how do we measure it? </a> </p>
+
+<p> <a href="https://www.zmescience.com/science/physics/chladni-figures-the-mysterious-patterns-in-the-rings-of-power-title-sequence-have-some-serious-science-behind-them/" Chladni figures: the mysterious patterns in ‘The Rings of Power’ title sequence have some serious science behind them </a> </p>
+
+<p> <a href="https://www.zmescience.com/science/physics/the-glory-the-science-behind-a-rare-optical-phenomenon/" The glory: the science behind a rare optical phenomenon </a> </p>
+
+<p> <a href="https://www.zmescience.com/other/feature-post/how-jwst-is-showing-us-the-earliest-galaxies-in-the-universe-and-challenging-our-current-theories/"> How JWST is showing us the earliest galaxies in the universe — and challenging our current theories </a> </p>
+
+<p> <a href="https://www.zmescience.com/other/feature-post/a-hundred-years-ago-a-physicist-tried-to-convince-the-world-the-universe-is-expanding-through-math-alone/"> A hundred years ago, a physicist tried to convince the world the universe is expanding — through math alone</a></p>
+
 <p> <a href = "https://www.zmescience.com/science/the-unlikely-stories-of-neutrino-research-involves-ultrapure-water-shifting-masses-and-two-casino-loving-physicists/"> The unlikely story of neutrino research involves ultrapure water, shifting masses, and two casino-loving physicists </a> </p>
 
 <p> <a href = "https://www.zmescience.com/science/math/emmy-noether-theorem-23062022/"> The woman who developed one of the most beautiful theorems in physics </a> </p>
