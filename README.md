@@ -1,5 +1,8 @@
-<p style="background-image: url('images/IMG_3332.jpg');">
-
+<style>
+p {
+  background-image: url('images/IMG_3332.jpg');
+}
+</style>
 # Paula Ferreira
 
 
