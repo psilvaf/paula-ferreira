@@ -1,8 +1,3 @@
-<style>
-p {
-  background-image: url('images/IMG_3332.jpg');
-}
-</style>
 # Paula Ferreira
 
 
