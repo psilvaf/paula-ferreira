@@ -1,3 +1,5 @@
+<p style="background-image: url('images/IMG_3332.jpg');">
+
 # Paula Ferreira
 
 
