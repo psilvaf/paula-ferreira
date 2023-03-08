@@ -8,6 +8,14 @@
 
 ### ZME Science
 
+
+<p> <a href ="https://www.zmescience.com/other/feature-post/where-is-the-center-of-the-universe-or-is-there-even-one/"> Where is the center of the universe (or is there even one)? </a> </p>
+
+<p> <a href ="https://www.zmescience.com/science/what-are-lenticular-galaxies/"> What are lenticular galaxies? </a> </p>
+
+<p> <a href ="https://www.zmescience.com/science/why-did-einstein-find-quantum-mechanics-debatable/"> Why did Einstein find quantum mechanics debatable?
+ </a> </p>
+
 <p> <a href ="https://www.zmescience.com/other/feature-post/whats-the-brightest-star-from-earth-and-how-do-we-measure-it/"> What’s the brightest star from Earth, and how do we measure it? </a> </p>
 
 <p> <a href="https://www.zmescience.com/science/physics/chladni-figures-the-mysterious-patterns-in-the-rings-of-power-title-sequence-have-some-serious-science-behind-them/"> Chladni figures: the mysterious patterns in ‘The Rings of Power’ title sequence have some serious science behind them </a> </p>
