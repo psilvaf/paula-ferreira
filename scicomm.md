@@ -8,6 +8,7 @@
 
 ### ZME Science
 
+<p> <a href = "https://www.zmescience.com/feature-post/natural-sciences/physics-articles/thermodynamics/the-magnus-effect-the-physical-principle-feared-by-goalkeepers/"> The Magnus effect: the physical principle feared by goalkeepers </a> </p>
 
 <p> <a href ="https://www.zmescience.com/other/feature-post/where-is-the-center-of-the-universe-or-is-there-even-one/"> Where is the center of the universe (or is there even one)? </a> </p>
 
