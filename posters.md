@@ -6,10 +6,7 @@
 <p> <a href = "https://www.youtube.com/watch?v=id6tPk5KF9k">Video</a> </p>
 
 <h2>ICTP South American Institute for Fundamental Research, Giambiagi Winter School on Cosmology (2023) <h2>
-<p> 
-Angular Correlation Function from
-sample covariance with BOSS and
-eBOSS LRG </p>
+<p> Angular Correlation Function from sample covariance with BOSS and eBOSS LRG </p>
 
 <figure>
   <img src="pdf/xxvgiambiagi.jpg" alt="Trulli" style="width:100%">
