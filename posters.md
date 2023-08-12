@@ -11,3 +11,8 @@ Angular Correlation Function from
 sample covariance with BOSS and
 eBOSS LRG </p>
 
+<figure>
+  <img src="pdf/xxvgiambiagi.jpg" alt="Trulli" style="width:100%">
+</figure>
+
+
