@@ -9,7 +9,7 @@
 <p> Angular Correlation Function from sample covariance with BOSS and eBOSS LRG </p>
 
 <figure>
-  <img src="pdf/xxvgiambiagi.jpg" alt="Trulli" style="width:100%">
+  <img src="pdf/xxvgiambiagi2.png" alt="Giambiabi Winter School participants" style="width:100%">
 </figure>
 
 
