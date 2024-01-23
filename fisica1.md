@@ -2,7 +2,7 @@
 
 <h3> <a href="./p1"> Cinemática e dinâmica </a> </h3>
 
-<p><a href="revisao_p2.pdf" target="_blank"> Revisão P1</a>: <a href="pdf/gab1.pdf" target="_blank">gabarito</a></p>
+<p><a href="revisao_p1.pdf" target="_blank"> Revisão P1</a>: <a href="pdf/gabarito.pdf" target="_blank">gabarito</a></p>
 
 <h3> <a href="./p2"> Conservação de energia e momento </a> </h3>
 
