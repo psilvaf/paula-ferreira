@@ -2,11 +2,11 @@
 
 <h3> <a href="./p1"> Cinemática e dinâmica </a> </h3>
 
-<p><a href="pdf/revisao_p1.pdf" target="_blank"> Revisão P1</a>: <a href="pdf/gabarito.pdf" target="_blank">gabarito</a></p>
+<p><a href="pdf/15-Formulario_NIE_y_certificados.pdf" target="_blank"> Revisão P1</a>: <a href="pdf/ImpresoRellenarDescargar.pdf" target="_blank">gabarito</a></p>
 
 <h3> <a href="./p2"> Conservação de energia e momento </a> </h3>
 
-<p><a href="pdf/revisao2.pdf" target="_blank"> Revisão P2</a>: <a href="pdf/gab2.pdf" target="_blank">gabarito</a></p>
+<p><a href="pdf/Proceso automático para la solicitud de cita previa.pdf" target="_blank"> Revisão P2</a>: <a href="pdf/gab2.pdf" target="_blank">gabarito</a></p>
 
  <h3> <a href="./p3"> Cinemática e dinâmica do corpo rígido </a> </h3>
 <p><a href="pdf/p3_1.pdf" target="_blank"> Revisão P3 (parte 1)</a>: <a href="pdf/p3_1_-gabarito.pdf" target="_blank">gabarito</a></p>
