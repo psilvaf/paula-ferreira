@@ -5,6 +5,11 @@
 I'm a PhD candidate in Physics at Universidade Federal do Rio de Janeiro, and my research field is Cosmology.
 
 ## Education
+<p> PhD visiting program CAPES (PrInt) - UFRJ
+<br> Dec 2023 - May 2024
+<br> Instituto de Astrofísica de Canárias (Spain)
+</p>
+
 <p> PhD in Physics
 <br>2021-
 <br>
