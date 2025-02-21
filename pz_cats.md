@@ -6,10 +6,7 @@
 
 <p> Columns description </p>
 
-![Cats](images/pz-cats.jpeg)
+![Cats](images/pz_cats-LOGO_Page 1.png)
 
 
-<p> ANNz: </p>
-<p> BPZ: </p>
-<p> DNF: </p>
-<p> ENF: </p>
+<p> The catalogs are in the Zenodo repository https://zenodo.org/records/14290701
