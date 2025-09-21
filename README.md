@@ -2,7 +2,7 @@
 
 
 ## About me
-I'm a post-doc at Centro Brasileiro de Pesquisas Físicas, and my research field is Cosmology.
+I'm a post-doc at Observatório Nacional in Rio de Janeiro, and my research field is Cosmology.
 
 ## Education
 <p> PhD visiting program CAPES (PrInt) - UFRJ
