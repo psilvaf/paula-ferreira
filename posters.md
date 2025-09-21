@@ -1,4 +1,6 @@
 <h1> Posters <h1>
+<h2>  2024 Cosmology session of the 58th Rencontres de Moriond <h2>
+<p>Angular Correlation Function from sample covariance with BOSS and eBOSS LRG</p>
 
 <h2> ICTP - Reuven Opher Workshop on Challenges of New Physics in Space (2021) <h2>
 <p> Estimating the BAO in real space </p>
