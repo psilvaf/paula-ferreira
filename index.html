@@ -18,10 +18,12 @@ layout: default
         background-color: #FBFAF7;
       }
 
-      /* On wider screens, stop the image from stretching to fill the viewport */
+      /* Wide screens: size by height and tile side by side */
       @media (min-width: 900px) {
         body {
-          background-size: contain;
+          background-size: auto 100vh;
+          background-repeat: repeat-x;
+          background-position: left top;
         }
       }
 
