@@ -15,19 +15,24 @@ layout: default
         background-position: center;
         background-attachment: fixed;
         background-repeat: no-repeat;
+        background-color: #FBFAF7;
       }
 
-      /* Semi-transparent card so text stays readable over the image */
+      /* On wider screens, stop the image from stretching to fill the viewport */
+      @media (min-width: 900px) {
+        body {
+          background-size: contain;
+        }
+      }
+
       .content {
         max-width: 800px;
         margin: 40px auto;
         padding: 30px 40px;
         background: rgba(255, 255, 255, 0.85);
-
       }
 
       .content a {
-        color: #1a4d8f;
         text-decoration: none;
       }
 
