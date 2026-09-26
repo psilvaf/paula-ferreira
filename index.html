@@ -7,41 +7,24 @@ layout: default
   <head>
     <title>Paula Ferreira</title>
     <style>
+      /* Mobile (default): image covers the whole page */
       body {
         margin: 0;
         min-height: 100vh;
+        background-image: url('./images/latin_america.jpg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
         background-color: #FBFAF7;
       }
 
-      /* Image lives here, behind the text card only */
       .content {
         max-width: 800px;
         margin: 40px auto;
         padding: 30px 40px;
-        background-image: url('./images/latin_america.jpg');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
         border-radius: 12px;
-        overflow: hidden;
-      }
-
-      /* A soft translucent layer over the image so the text stays readable */
-      .content::before {
-        content: "";
-        position: absolute;
-        inset: 0;
-        background: rgba(255, 255, 255, 0.80);
-        border-radius: 12px;
-      }
-
-      .content {
         position: relative;
-      }
-
-      .content > * {
-        position: relative;
-        z-index: 1;
       }
 
       .content a {
@@ -50,6 +33,36 @@ layout: default
 
       .content a:hover {
         text-decoration: underline;
+      }
+
+      /* Wide screens: move the image behind the text card only */
+      @media (min-width: 900px) {
+        body {
+          background-image: none;
+          background-color: #FBFAF7;
+        }
+
+        .content {
+          background-image: url('./images/latin_america.jpg');
+          background-size: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+          overflow: hidden;
+        }
+
+        /* Soft white veil over the image so text stays readable */
+        .content::before {
+          content: "";
+          position: absolute;
+          inset: 0;
+          background: rgba(255, 255, 255, 0.80);
+          border-radius: 12px;
+        }
+
+        .content > * {
+          position: relative;
+          z-index: 1;
+        }
       }
     </style>
   </head>
