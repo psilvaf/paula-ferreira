@@ -1,44 +1,63 @@
 ---
 layout: default
 ---
-  
+
 <!doctype html>
 <html>
   <head>
-    <title> Paula Ferreira !</title>
- 
+    <title>Paula Ferreira</title>
+    <style>
+      body {
+        margin: 0;
+        min-height: 100vh;
+        background-image: url('./images/latin_america.jpg');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+      }
+
+      /* Semi-transparent card so text stays readable over the image */
+      .content {
+        max-width: 800px;
+        margin: 40px auto;
+        padding: 30px 40px;
+        background: rgba(255, 255, 255, 0.85);
+        border-radius: 12px;
+        font-family: Georgia, 'Times New Roman', serif;
+        line-height: 1.6;
+        color: #222;
+      }
+
+      .content a {
+        color: #1a4d8f;
+        text-decoration: none;
+      }
+
+      .content a:hover {
+        text-decoration: underline;
+      }
+    </style>
   </head>
   <body>
-   
-    <h2> About me </h2>
-    <p>I come from Duque de Caxias, in Rio de Janeiro’s Baixada Fluminense. I’m grateful for the path that led me to cosmology, 
-      and for the people and opportunities that helped me along the way. I completed my PhD at the Federal University of Rio de Janeiro, 
-      focusing on Baryon Acoustic Oscillations (BAO) in galaxy surveys.  </p>
-      <p>I also spent time at the Instituto de Astrofísica de Canarias through a CAPES PrInt fellowship, where I was able to deepen my theoretical background.  </p>
-      <p>I’m now a postdoc at Zhejiang University. </p>
+    <div class="content">
+      <h2>About me</h2>
+      <p>I come from Duque de Caxias, in Rio de Janeiro’s Baixada Fluminense. I’m grateful for the path that led me to cosmology, and for the people and opportunities that helped me along the way. I completed my PhD at the Federal University of Rio de Janeiro, focusing on Baryon Acoustic Oscillations (BAO) in galaxy surveys.</p>
+      <p>I also spent time at the Instituto de Astrofísica de Canarias through a CAPES PrInt fellowship, where I was able to deepen my theoretical background.</p>
+      <p>I’m now a postdoc at Zhejiang University.</p>
 
- <p>My research centers on the large-scale structure of the universe, especially BAO. On the astrophysical side, I’ve been involved with photometric redshift estimation and 
-   galaxy morphology, which I hope will contribute to a larger future project. </p>
+      <p>My research centers on the large-scale structure of the universe, especially BAO. On the astrophysical side, I’ve been involved with photometric redshift estimation and galaxy morphology, which I hope will contribute to a larger future project.</p>
 
- <p>I’m part of the J-PAS collaboration. Here you can find links to some earlier projects and written work, as well as a photometric redshift catalog we tested: Pz Cats. </p>
+      <p>I’m part of the J-PAS collaboration. Here you can find links to some earlier projects and written work, as well as a photometric redshift catalog we tested: Pz Cats.</p>
 
- <p>I’m still learning, and I’m always glad to collaborate or hear from others working in these areas. </p>
-      <p>Here, there are some links to old projects and written work, as well as, a photometric redshift catalog we tested: Pz Cats. </p>
-    
-     
-   
-    
-    <h2> <a href="./scicomm">Science Communication</a> </h2>
-    
-    <h2> <a href="./education">Education</a> </h2>
-    
-    <h2> <a href="./pubs">Publications </a> </h2>
-    
-    <h2> <a href="./posters">Poster Presentation </a> </h2>
-    
-    <h2> <a href="./fisica1">Física 1 - IF UFRJ </a> </h2>
+      <p>I’m still learning, and I’m always glad to collaborate or hear from others working in these areas.</p>
 
-    <h2> <a href="./pz_cats">Pz Cats </a> </h2>
-    
+      <h2><a href="./scicomm">Science Communication</a></h2>
+      <h2><a href="./education">Education</a></h2>
+      <h2><a href="./pubs">Publications</a></h2>
+      <h2><a href="./posters">Poster Presentation</a></h2>
+      <h2><a href="./fisica1">Física 1 - IF UFRJ</a></h2>
+      <h2><a href="./pz_cats">Pz Cats</a></h2>
+    </div>
   </body>
 </html>
