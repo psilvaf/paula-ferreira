@@ -19,10 +19,12 @@ layout: default
         background-color: #FBFAF7;
       }
 
+      /* Translucent card so text stays readable — used on all screen sizes */
       .content {
         max-width: 800px;
         margin: 40px auto;
         padding: 30px 40px;
+        background: rgba(255, 255, 255, 0.80);
         border-radius: 12px;
         position: relative;
       }
@@ -43,6 +45,7 @@ layout: default
         }
 
         .content {
+          background-color: transparent;
           background-image: url('./images/latin_america.jpg');
           background-size: cover;
           background-position: center;
